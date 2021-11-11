@@ -16,7 +16,7 @@
 .menu-list {
    position: absolute;
    top: 50px;
-   left: -1px;
+   left: 0px;
    color: black;
    margin: 0;
    padding: 0;
